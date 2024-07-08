@@ -1,7 +1,7 @@
 # you can put this code in your configuration.yaml to add the ability for a slider that can control SwitchNot.
 
 input_number:
-  servo_control:
+  switchnot_control:
     initial: 0
     min: -100
     max: 100
